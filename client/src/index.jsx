@@ -61,7 +61,7 @@ class App extends React.Component {
     })
   }
 
-
+//UP TO DATE
   render() {
     console.log('Trending Test 1', this.state.trending)
 
